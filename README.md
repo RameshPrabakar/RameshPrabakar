@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ramesh Prabhakar, a passionate and creative developer from 🇮🇳  with a strong interest in Open-Source. 🎯 I mostly do FullStack development based on Microservices/Monolithic architecture using ReactJS, NodeJS, NestJS, Javascript technologies like ExpressJS coupled with SQL/NoSQL databases like SQL Server, MongoDB etc.
+I am Ramesh Prabhakar, a passionate and creative developer with a strong interest in Open-Source. 🎯 I mostly do FullStack development based on Microservices/Monolithic architecture using ReactJS, NodeJS, NestJS, Javascript technologies like ExpressJS coupled with SQL/NoSQL databases.
 
 ### Tech Stacks 
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
