@@ -24,7 +24,7 @@ I care deeply about **code quality**, testing, observability, and developer expe
 ### 🛠️ Skills & Technologies
 
 #### **Frontend**
-React.js • Angular • TypeScript • Redux • RxJS • Single-SPA • JavaScript • Tailwind CSS • Bootstrap • SCSS • Figma
+React.js • Angular • TypeScript • Redux • RxJS • SPA • JavaScript • Tailwind CSS • Bootstrap • SCSS • Figma
 
 #### **Backend**
 Node.js • REST & GraphQL APIs • Redis • WebSockets • Kafka • RabbitMQ • MongoDB • PostgreSQL • SQL/NoSQL
