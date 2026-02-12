@@ -11,16 +11,6 @@ I enjoy solving complex engineering challenges, improving performance, and desig
 I care deeply about **code quality**, testing, observability, and developer experience.
 
 ---
-
-### 🌐 Current Focus
-- Building **real-time dashboards** and **microservices** using **React, Angular, Node.js, Redis, Kafka, and GraphQL**
-- Implementing efficient **Backend-for-Frontend (BFF)** layers to improve API performance
-- Developing secure authentication systems using **OAuth2, JWT, and RBAC**
-- Designing robust **CI/CD pipelines** using GitHub Actions and Docker
-- Performance monitoring and optimization using **New Relic and profiling tools**
-
----
-
 ### 🛠️ Skills & Technologies
 
 #### **Frontend**
