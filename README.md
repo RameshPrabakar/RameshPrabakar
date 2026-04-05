@@ -45,12 +45,10 @@ OpenAI API (GPT-4o) • Prompt Engineering • AI Agents • Human-in-the-loop W
 ## 🤖 AI Projects
  
 ### [Social Media AI Agent](https://github.com/RameshPrabakar/social-media-agent)
-A command-line AI agent that generates social media posts, runs automated safety checks, and saves human-approved content built with OpenAI GPT-4o-mini and Python.
+Agentic AI social media pipeline using OpenAI Function Calling - 7 chained tools ( trend search, content generation, moderation, auto-repair, human approval ) with no hardcoded logic; Self-healing loop rewrites and re-validates on moderation failure.
+
+_Technologien: Python · GPT-4o-mini · Function Calling · Agentic AI_
  
-- 4 writing styles: Casual, Professional, Funny, Informative
-- Built-in content moderation via AI safety review
-- Human-in-the-loop approval before anything gets saved
-- Clean architecture with `.env`-based config
  
 > *Part of my ongoing journey learning how to build practical, responsible AI tools.*
 
