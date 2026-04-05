@@ -5,9 +5,15 @@
 ---
 
 ### 💻 About Me
-I specialize in **Full-Stack Development** with a strong focus on crafting stable backend architectures and intuitive frontend experiences. My work spans React.js, Angular, Node.js, TypeScript, Microservices, and Cloud-native environments.
+Senior Software Engineer with 8+ years of enterprise experience delivering production systems in Telecom, Health Care and other enterprise, high-responsibility domains.
 
-Recently I've been exploring the AI/LLM space building agents, working with OpenAI APIs, and learning how to integrate AI thoughtfully into real-world workflows.
+Strong hands-on expertise in React, Node.js, Python, frontend-microservices, event-driven architectures (Kafka,WebSockets) and continuous integration pipelines.
+
+Open to new tools and applying with good judgment for problem-solving, documentation, and prototyping, while keeping quality standards high.
+
+Committed to Clean Code principles, TDD, Automated testing and DevOps practices in agile Scrum teams.
+
+Passionate about how AI-assisted SDLC can accelerate engineering backed by hands-on delivery of enterprise AI agents using OpenAI, LangChain.js, and RAG.
 
 ---
 ### 🛠️ Skills & Technologies
