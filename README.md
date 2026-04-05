@@ -1,7 +1,5 @@
 ### Hi, I'm Ramesh Prabhakar 👋
 
-🚀 Senior Software Engineer & Full-Stack Developer with 8+ years of experience building scalable, secure, and high-performance web applications across Telecom, Healthcare, and Enterprise domains.
-
 ---
 
 ### 💻 About Me
